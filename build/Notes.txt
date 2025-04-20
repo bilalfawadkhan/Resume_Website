@@ -1,0 +1,22 @@
+🔠 Recommended Tailwind Class Order (Best Practice)
+A common and readable order follows this pattern:
+
+Layout – container, block, flex, grid, etc.
+
+Positioning – absolute, relative, top-0, left-0, z-10, etc.
+
+Display & Flex/Grid – flex, items-center, justify-between, gap-4, etc.
+
+Box Model – p-4, m-4, mt-20, space-x-2, etc.
+
+Sizing – w-full, h-screen, max-w-xl, etc.
+
+Typography – text-center, text-6xl, font-bold, tracking-wide, etc.
+
+Background – bg-gray-100, bg-opacity-50, etc.
+
+Border – border, border-gray-300, rounded-lg, etc.
+
+Effects – shadow-lg, transition, hover:bg-blue-500, etc.
+
+Custom / Utility / Responsive variants – lg:text-9xl, sm:w-full, etc.
