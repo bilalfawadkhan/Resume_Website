@@ -20,3 +20,7 @@ Border – border, border-gray-300, rounded-lg, etc.
 Effects – shadow-lg, transition, hover:bg-blue-500, etc.
 
 Custom / Utility / Responsive variants – lg:text-9xl, sm:w-full, etc.
+
+
+Mobile Phones: 
+Screen Size Width: iphone: 375 android: 365
