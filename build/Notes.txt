@@ -24,3 +24,5 @@ Custom / Utility / Responsive variants – lg:text-9xl, sm:w-full, etc.
 
 Mobile Phones: 
 Screen Size Width: iphone: 375 android: 365
+
+npx tailwind -i ./src/input.css -o ./build/css/style.css --watch
