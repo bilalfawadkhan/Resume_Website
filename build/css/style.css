@@ -678,6 +678,10 @@ video {
   background-color: rgb(31 41 55 / var(--tw-bg-opacity));
 }
 
+.bg-opacity-35 {
+  --tw-bg-opacity: 0.35;
+}
+
 .p-2 {
   padding: 0.5rem;
 }
@@ -740,6 +744,10 @@ video {
 
 .opacity-65 {
   opacity: 0.65;
+}
+
+.opacity-35 {
+  opacity: 0.35;
 }
 
 .transition {
@@ -828,6 +836,10 @@ video {
 
   .lg\:col-span-8 {
     grid-column: span 8 / span 8;
+  }
+
+  .lg\:col-span-6 {
+    grid-column: span 6 / span 6;
   }
 
   .lg\:col-start-1 {
